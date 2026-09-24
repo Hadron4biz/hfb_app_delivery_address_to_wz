@@ -33,7 +33,7 @@ This app does that update for you: whenever the delivery address changes on
 an order, every related, not-yet-done outgoing transfer is updated to match,
 with a note in both the order's and the transfer's chatter.
 """,
-    'version': "17.0.1.0.0",
+    'version': "19.0.1.0.0",
     'author': "Hadron for Business sp. z o.o.",
     'website': "http://hadronforbusiness.com",
     'license': "OPL-1",
