@@ -42,6 +42,9 @@ with a note in both the order's and the transfer's chatter.
         'sale_stock',
     ],
     'data': [],
+    'images': [
+        'static/description/banner_screenshot.png',
+    ],
     'installable': True,
     'application': False,
 }
